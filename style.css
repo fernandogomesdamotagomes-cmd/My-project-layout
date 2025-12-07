@@ -358,6 +358,7 @@ body::before {
 .button a {
   text-decoration: none;
   color: #fff;
+  margin: 0% 0 0% 40%
 }
 .register-link {
   font-size: 14px;
@@ -375,3 +376,4 @@ body::before {
   text-decoration: underline;
   color: rgb(37, 37, 37);
 }
+
